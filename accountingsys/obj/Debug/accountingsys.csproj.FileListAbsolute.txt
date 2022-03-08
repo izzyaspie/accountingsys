@@ -1,0 +1,11 @@
+C:\Users\LAB\source\repos\accountingsys\accountingsys\bin\Debug\accountingsys.exe.config
+C:\Users\LAB\source\repos\accountingsys\accountingsys\bin\Debug\accountingsys.exe
+C:\Users\LAB\source\repos\accountingsys\accountingsys\bin\Debug\accountingsys.pdb
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.csproj.AssemblyReference.cache
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.Form1.resources
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.Properties.Resources.resources
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.csproj.GenerateResource.cache
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.csproj.CoreCompileInputs.cache
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.exe
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.pdb
+C:\Users\LAB\source\repos\accountingsys\accountingsys\obj\Debug\accountingsys.settings_form.resources
